@@ -22,11 +22,6 @@ def get_input(prompt):
 def send_whatsapp_message():
     try:
         contacts = {
-            "mamy": "+917567110945",
-            "papa": "+917434948356",
-            "me": "+918320690850",
-            "sudip": "+916354080767",
-            "ayush": "+918140681519"
         }
 
         print("Mamy   Papa   Me   Sudip   Ayush")
